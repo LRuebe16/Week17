@@ -1,0 +1,19 @@
+h1{
+    color: Yellow;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 50pt;
+}
+p {
+    color:orange;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20pt;
+}
+
+li {
+    color: paleturquoise;
+    font-size: 20pt;
+}
+
+html{
+    background-color: rgb(72, 41, 87);
+}
